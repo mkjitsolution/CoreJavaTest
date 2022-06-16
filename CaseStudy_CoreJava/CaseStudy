@@ -1,0 +1,10 @@
+Case Study 
+=========================
+
+This is the case study where orders.csv file is given 
+
+based on this file 
+create a menu driven application 
+which can perform all the operations available in IOrderService interface 
+
+create pdf file using file handling PDFBox API
